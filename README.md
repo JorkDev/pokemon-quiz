@@ -11,3 +11,5 @@
  Pokemon is a registered trademark of Nintendo, Game Freak, and Creatures Inc, the use of Pokemon sprites is for educational purposes only.
 
  **This project was done by the challenge of 50 javascript projects in 5 days**
+
+ <img src="https://media.discordapp.net/attachments/842503650017280039/850401511444185139/pokemon_ss.PNG?width=1149&height=559">
