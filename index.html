@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pokemon Quiz</title>
+    <link rel="stylesheet" href="dist/css/style.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+
+</head>
+<body>
+
+    <!-- Start Quiz Button -->
+    <div class="start_btn">
+        <button>
+            Start Quiz
+        </button>
+    </div>
+
+    <!-- Info Box -->
+    <div class="info_box">
+        <div class="info_title">
+            <span>Rules of the Quiz</span>
+        </div>
+        <div class="info_list">
+            <div class="info">
+                <ul>
+                    <li>1. You will have only <span>15 seconds</span> per each question.</li>
+                    <li>2. Once you select your answer, you cannot reselect.</li>
+                    <li>3. You can't select any option once time goes off.</li>
+                    <li>4. You can't exit from the quiz while you're playing.</li>
+                    <li>5. You'll get points on the basis of your correct answers.</li>
+                </ul>
+            </div>
+            <div class="buttons">
+                <button class="restart">Continue</button>
+                <button class="quit">Go Back</button>
+
+            </div>
+        </div>
+    </div>
+
+    <!-- Quiz Box -->
+    <div class="quiz_box">
+        <header>
+            <div class="title">Pokemon Quiz Aplication</div>
+            <div class="timer">
+                <div class="time_text">Time Left</div>
+                <div class="timer_sec">15</div>
+            </div>
+            <div class="time_line"></div>
+        </header>
+        <section>
+            <div class="que_text">
+                <span>Guess this Pokemon</span>
+                <div class="pokemon_img"></div>            
+            </div>
+            <div class="que_subtext">
+                <span>PICK ONE OF THE FOLLOWING OPTIONS</span>
+            </div>
+            <div class="option_list">
+               
+            </div>
+        </section>
+
+        <!-- Quiz Box Footer -->
+        <footer>
+            <div class="total_que">
+            </div>
+            <button class="next_btn">Next Question</button>
+        </footer>
+    </div>
+
+    <!-- Result Box -->
+    <div class="result_box">
+        <div class="icon">
+            <i class="fas fa-crown"></i>
+        </div>
+        <div class="complete_text">You've completed the Pokemon Quiz</div>
+        <div class="score_text">
+            
+        </div>
+        <div class="buttons">
+            <button class="restart">Replay Quiz</button>
+            <button class="quit">Quit Quiz</button>
+        </div>
+    </div>
+    <div class="main_footer">
+        <a href="">Facebook</a> | <a href="">Github</a> | <a href="">Contact</a> | Pokemon is a registered trademark of Nintendo, Game Freak, and Creatures Inc. Website made by Jorkaef Jarez.
+    </div>
+</body>
+<script src="dist/js/main.js"></script>
+<script src="dist/js/questions.js"></script>
+
+</html>
