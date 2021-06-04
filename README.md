@@ -8,4 +8,4 @@
  
  
  
- Pokemon is a registered trademark of Nintendo, Game Freak, and Creatures Inc, the use of Pokemon sprites is not commercial and for educational purposes only.
+ Pokemon is a registered trademark of Nintendo, Game Freak, and Creatures Inc, the use of Pokemon sprites is for educational purposes only.
