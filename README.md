@@ -9,3 +9,5 @@
  
  
  Pokemon is a registered trademark of Nintendo, Game Freak, and Creatures Inc, the use of Pokemon sprites is for educational purposes only.
+
+ **This project was done by the challenge of 50 javascript projects in 5 days**
