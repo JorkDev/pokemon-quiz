@@ -14,8 +14,8 @@
 
  <img src="https://media.discordapp.net/attachments/842503650017280039/850401511444185139/pokemon_ss.PNG?width=1149&height=559">
  
-Programming Level: Beginner
+Programming Level: Beginner\
 Project Type: Front-End
 
-Front-End: HTML, CSS, JavaScript
+Front-End: HTML, CSS, JavaScript\
 Back-End: N/A
