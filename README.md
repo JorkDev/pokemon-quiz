@@ -1,4 +1,4 @@
-# pokemon quiz vanilla js
+# Javascript Pokemon Quiz
  A simple quiz with no frameworks or libreries used on it
 
  Simple use, just clone the repo and open it.
